@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Artifacts and reports
+artifacts/
+reports/*.png
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
